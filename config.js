@@ -14,5 +14,5 @@ const CONFIG = {
     mess: 'Anh biết mà, hẹn em ngày trăng tròn đêm trung thu nhá. Luv😗',
     messDesc: '💬💬 Nhắn tin cho anh nha. 💬💬',
     btnAccept: 'Ừ 👌',
-    messLink: 'https://m.me/NgAnhTu873' 
+    messLink: 'https://m.me/NgAnhTu873',  
 }
