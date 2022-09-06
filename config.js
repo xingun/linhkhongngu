@@ -10,7 +10,7 @@ const CONFIG = {
     question:'À, em có gì mún nói với anh hơm  👉👈',
     reasonPlaceholder: 'Lời nhắn iu thương',
     btnReply: 'Gởi ! 💌💌',
-    reply: 'Anh tệ vl, nma em vẫn bắt anh đi trung thu với em',
+    reply: 'Anh tệ vl, nma em vẫn bắt anh đi trung thu với em nha',
     mess: 'Anh biết mà, hẹn em ngày trăng tròn đêm trung thu nhá. Luv😗',
     messDesc: '💬💬 Nhắn tin cho anh nha. 💬💬',
     btnAccept: 'Ừ 👌',
